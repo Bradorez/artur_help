@@ -1,0 +1,12 @@
+{
+  "python.defaultInterpreterPath": "/Users/andrii/projects/artur_help_pr/zephyrproject/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/andrii/projects/artur_help_pr/zephyrproject/.venv/bin:${env:PATH}",
+    "ZEPHYR_BASE": "/Users/andrii/projects/artur_help_pr/zephyrproject/zephyr",
+    "ZEPHYR_SDK_INSTALL_DIR": "/Users/andrii/zephyr-sdk-1.0.1"
+  },
+  "terminal.integrated.defaultProfile.osx": "Zephyr IDE Terminal",
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/.vscode/compile_commands.json",
+  "cmake.configureOnOpen": false
+}
