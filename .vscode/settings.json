@@ -8,6 +8,12 @@
     "ZEPHYR_BASE": "/Users/andrii/projects/artur_help_pr/zephyrproject/zephyr",
     "ZEPHYR_SDK_INSTALL_DIR": "/Users/andrii/zephyr-sdk-1.0.1"
   },
+  "terminal.integrated.automationProfile.osx": {
+    "path": "/bin/zsh",
+    "args": [
+      "-c"
+    ]
+  },
   "terminal.integrated.defaultProfile.osx": "Zephyr IDE Terminal",
   "C_Cpp.default.compileCommands": "${workspaceFolder}/.vscode/compile_commands.json",
   "cmake.configureOnOpen": false
